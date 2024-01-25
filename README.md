@@ -1,6 +1,5 @@
 # STARTER-jpa03
 
-
 Running at: <https://jpa03-notaryaman.dokku-16.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
